@@ -1,5 +1,5 @@
 {
-  "name": "native-echarts",
+  "name": "native-echarts-urara",
   "version": "0.5.0",
   "description": "echarts for react-native",
   "main": "src/index.js",
@@ -11,13 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/somonus/react-native-echarts.git"
+    "url": "git+https://github.com/yulingyiyi/react-native-echarts.git"
   },
   "keywords": [
     "react-native",
     "echarts",
     "chart",
-    "charts"
+    "charts",
+    "urara"
   ],
   "author": "somonus",
   "license": "MIT",
